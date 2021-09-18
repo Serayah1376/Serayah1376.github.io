@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Serayah</title>
+  
+  <subtitle>BlackPearl</subtitle>
+  <link href="https://serayah1376.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://serayah1376.github.io/"/>
+  <updated>2021-09-17T15:44:09.761Z</updated>
+  <id>https://serayah1376.github.io/</id>
+  
+  <author>
+    <name>Serayah</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pytorch深度学习实践</title>
+    <link href="https://serayah1376.github.io/nlp/2021/09/16/pytorch-shen-du-xue-xi-shi-jian/"/>
+    <id>https://serayah1376.github.io/nlp/2021/09/16/pytorch-shen-du-xue-xi-shi-jian/</id>
+    <published>2021-09-16T14:06:23.000Z</published>
+    <updated>2021-09-17T15:44:09.761Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="nlp" scheme="https://serayah1376.github.io/categories/nlp/"/>
+    
+    
+    <category term="nlp" scheme="https://serayah1376.github.io/tags/nlp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First</title>
+    <link href="https://serayah1376.github.io/uncategorized/2021/09/16/first/"/>
+    <id>https://serayah1376.github.io/uncategorized/2021/09/16/first/</id>
+    <published>2021-09-16T05:16:58.000Z</published>
+    <updated>2021-09-17T15:39:30.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;del&gt;菜得不知所措&lt;/del&gt;&lt;/p&gt;
+&lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://serayah1376.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://serayah1376.github.io/uncategorized/2021/09/16/hello-world/"/>
+    <id>https://serayah1376.github.io/uncategorized/2021/09/16/hello-world/</id>
+    <published>2021-09-16T04:59:46.621Z</published>
+    <updated>2021-09-17T15:34:44.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
